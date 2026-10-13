@@ -424,7 +424,7 @@ main > :last-child { margin-bottom: 0 !important; }
 .tarjeta .precios {
     display: flex;
     align-items: center;
-    gap: var(--space-sm)
+    gap: var(--space-sm);
 }
 
 .tarjeta .anterior {
